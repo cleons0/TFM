@@ -6,12 +6,19 @@ Repositorio creado para el trabajo final del Máster de Ciencia de Datos de la U
 
 La idea de este trabajo de final de carrera es la de estudiar la gentrificación de los barrios de Barcelona a partir de los datos que podamos obtener de distintas fuentes públicas como el IDESCAT, la web Open Data del Ayuntamiento de Barcelona u otras. Con el objetivo de intentar predecir que barrios de Barcelona están en riesgo de sufrir esta transformación y que impacto puede tener en ello la turificación.
 Para ello se van a analizar los siguientes indicadores:
+
 •	Origen de la población
+
 •	Renta media
+
 •	Edad media
-•	Nivel de estudios
+
+•	Nivel de estudio
+s
 •	Precio de la vivienda
+
 •	Uso turístico de la zona como alojamiento vacacional
+
 Con ellos y machine learning se pretende predecir que barrios están en riesgo de sufrir la gentrificación.
 
 ## Alumno
