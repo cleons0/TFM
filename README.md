@@ -21,6 +21,8 @@ s
 
 Con ellos y machine learning se pretende predecir que barrios están en riesgo de sufrir la gentrificación.
 
+Para ejecutar el código fuente sólo en necesario tener todos los archivos (fuente y dataset) en una misma carpeta y ejecutarlo con jupyter notebook.
+
 ## Alumno
 
 * [Carmelo León Suárez](https://github.com/cleons0)
